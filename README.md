@@ -1,8 +1,6 @@
 # About Me
 Hello! I'm Davi Gentil, I'm 22 years old and a Software Engineering student at Puc Minas. I'm a back-end programmer and in the programming world I like to be called DevGentil. Focused on improving my development skills and seeking opportunities to apply my knowledge.
 
-![computer](/path/to/computer.png)
-
 ## My Stack:
 
 ### Technologies:
