@@ -1,5 +1,5 @@
 # About Me
-Hello! I'm Davi Gentil, I'm 22 years old and a Software Engineering student at Puc Minas. I'm a FullStack programmer and in the programming world I like to be called DevGentil. Focused on improving my development skills and seeking opportunities to apply my knowledge.
+At 22 years old, I am a FullStack developer with special emphasis on React, as well as proficiency in Node, JavaScript, Java and MySQL. I am currently studying Software Engineering at PUC Minas, continually improving my skills and knowledge in technology.
 
 ## My Stack:
 
