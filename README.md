@@ -1,5 +1,7 @@
 # About Me
-At 22 years old, I am a Front-end developer specializing in React, bringing proficiency in TypeScript and JavaScript. Currently, I am expanding my knowledge in Node.js and Java to improve my full stack development skills. I study Software Engineering at PUC Minas, where I dedicate myself to deepening my theoretical and practical understanding of the most current technologies. My continued focus on innovation and quality in software development allows me to contribute significantly to challenging and innovative projects.
+I am 22 years old and a Front-end developer specialized in React, with proficiency in TypeScript and JavaScript. I am constantly evolving, expanding my knowledge in Node.js and Java to enhance my full-stack development skills.
+
+I am a Software Engineering student at PUC Minas and currently lead the frontend team in a project called Glue. This project aims to create an online platform for sharing answers to evaluative activities, with the goal of assisting students in their learning process.
 
 ## My Stack:
 
