@@ -1,7 +1,5 @@
 # About Me
-I am 22 years old and a Front-end developer specialized in React, with proficiency in TypeScript and JavaScript. I am constantly evolving, expanding my knowledge in Node.js and Java to enhance my full-stack development skills.
-
-I am a Software Engineering student at PUC Minas and currently lead the frontend team in a project called Glue. This project aims to create an online platform for sharing answers to evaluative activities, with the goal of assisting students in their learning process.
+I started my journey as a front-end developer, specializing in React, JavaScript, TypeScript and Next.js. Studying Software Engineering at PUC Minas, I acquired brief knowledge in Java with Spring Boot, Docker, MariaDB, AWS. During my studies and personal projects, I discovered and fell in love with the Golang language, which directed my focus to the backend with Golang, while I continue to improve my skills on the front-end with React.
 
 ## My Stack:
 
@@ -13,10 +11,9 @@ I am a Software Engineering student at PUC Minas and currently lead the frontend
 ![](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
 
 ### Currently Learning:
-![](https://img.shields.io/badge/-Node.js-lightgreen?style=for-the-badge&logo=node.js)
+![](https://img.shields.io/badge/-Go-lightgreen?style=for-the-badge&logo=go)
 ![](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
 ![](https://img.shields.io/badge/-SpringBoot-green?style=for-the-badge&logo=springboot)
-![](https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=mysql)
 
 ### IDEs:
 ![](https://img.shields.io/badge/-Visual_Studio_Code-blue?style=for-the-badge&logo=visual-studio-code)
