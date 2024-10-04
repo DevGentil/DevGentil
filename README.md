@@ -4,14 +4,15 @@ I started my journey as a front-end developer, specializing in React, JavaScript
 ## My Stack:
 
 ### Technologies:
-![](https://img.shields.io/badge/-React.js-black?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/-React.js-white?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next)
 ![](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white))
 ![](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5)
 ![](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
 
 ### Currently Learning:
-![](https://img.shields.io/badge/-Go-lightgreen?style=for-the-badge&logo=go)
+![](https://img.shields.io/badge/-Node.js-lightgreen?style=for-the-badge&logo=node)
 ![](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
 ![](https://img.shields.io/badge/-SpringBoot-green?style=for-the-badge&logo=springboot)
 
